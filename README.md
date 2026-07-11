@@ -1,54 +1,78 @@
-# 🔐 Cyber Security Projects
+# 🔐 DecodeLabs Cyber Security Internship Projects
 
-This repository contains four beginner-friendly Cyber Security projects developed in Python as part of my Cyber Security Internship.
+This repository contains four Python-based cybersecurity projects developed as part of my **DecodeLabs Cyber Security Internship**.
 
-## Projects
+## 📂 Projects
 
-### Project 1 – Password Strength Checker
-Checks password strength based on:
-- Length
-- Uppercase & Lowercase letters
+### 🔑 Project 1 – Password Strength Checker
+Checks password strength using:
+- Password length
+- Uppercase & lowercase letters
 - Numbers
 - Special characters
-- Security Score
+- Security score
+
+**Skills:** Python, String Handling, Security Basics
 
 ---
 
-### Project 2 – Basic Encryption & Decryption
-Implementation of Caesar Cipher.
+### 🔒 Project 2 – Basic Encryption & Decryption
+Implementation of the Caesar Cipher.
 
 Features:
-- Encryption
-- Decryption
-- Custom Shift Key
+- Encrypt messages
+- Decrypt messages
+- Custom shift key
+- Supports uppercase & lowercase letters
+
+**Skills:** Cryptography, Python
 
 ---
 
-### Project 3 – Phishing Awareness Analysis
-Detects phishing emails using:
-- Suspicious keywords
-- Links
-- Shortened URLs
-- Risk Analysis
+### 🎣 Project 3 – Phishing Awareness Analysis
+Analyzes messages to detect phishing attempts.
+
+Features:
+- Suspicious keyword detection
+- URL detection
+- Shortened link detection
+- Risk analysis
+
+**Skills:** Cybersecurity Awareness, Threat Detection
 
 ---
 
-### Project 4 – System Vulnerability Checklist
-Checks basic security practices including:
-- Strong Password
+### 🛡️ Project 4 – System Vulnerability Checklist
+Evaluates basic system security practices.
+
+Checks:
+- Strong passwords
 - Firewall
 - Antivirus
-- System Updates
+- Software updates
 - Backup
-- Wi-Fi Security
+- Wi-Fi security
+
+**Skills:** Risk Assessment, System Security
 
 ---
 
-## Technologies Used
+## 💻 Technology Used
 
 - Python 3
 
-## Author
+## 📁 Repository Structure
+
+```
+Decolabs-internship/
+├── Project-1-Password-Strength-Checker/
+├── Project-2-Basic-Encryption/
+├── Project-3-Phishing-Awareness/
+├── Project-4-System-Vulnerability-Checklist/
+└── README.md
+```
+
+## 👨‍💻 Author
 
 **Tanishque Agrawal**
 
@@ -60,4 +84,4 @@ Jaipur, Rajasthan
 
 ---
 
-⭐ If you found these projects useful, don't forget to star this repository.
+⭐ Thank you for visiting this repository.
