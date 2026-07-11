@@ -1,4 +1,4 @@
-# 🔒 Basic Encryption & Decryption
+#  Basic Encryption & Decryption
 
 ## Description
 
