@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+# Password Strength Checker
 
 ## Description
 This Python program checks the strength of a password based on:
