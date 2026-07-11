@@ -1,4 +1,4 @@
-# 🎣 Phishing Awareness Analysis
+#  Phishing Awareness Analysis
 
 ## Description
 
